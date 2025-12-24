@@ -1,0 +1,210 @@
+/*Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+.p_f {
+margin: 0px -168px 50px 49px;
+}
+/*Icon Part Start*/
+.f_icon {
+ font-size: 74px;
+ margin: 0px 0px 0px 218px;
+}
+.i_p {
+ padding: 0px 0px 0px 233px;
+ font-size: 25px;
+}
+/*Button*/
+.button_md{
+ margin: 26px 0 58px 79px;
+}
+/*Comment Section Start*/
+.c_title {
+ margin: 20px 20px 86px;
+}
+h2 {
+ margin: 8px 0;
+}
+p {
+ font-weight: 500;
+ font-size: 17px;
+ line-height: 26px;
+}
+/*2nd row Start (Comment)*/
+.mr {
+ padding: 0px 130px 25px 130px;
+}
+.mt {
+    margin-top: 0px;
+}
+.h2_c {
+ font-size: 37px;
+}
+.icn {
+ margin: 9px 0 0;
+ font-size: 18px;
+}
+.para_c {
+ font-size: 15px;
+ line-height: 21px;
+}
+/*Footer Top Start*/
+.ft_p {
+ padding-bottom: 0px;
+ margin: 0 25px 0px 25px;
+}
+.p_form {
+ padding: 65px 0 65px 0;
+}
+.btn_s {
+ width: 241px;
+ margin: 0px 157px;
+ height: 45px;
+}
+/*Footer End*/
+.fb_p {
+ margin: 0 0px;
+line-height: 16px;
+}
+
+}
+
+/*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*Feature Section Start*/
+.p_f {
+ margin: 0px 0px 60px 0px;
+}
+/*Icon Part Start*/
+.f_icon {
+ font-size: 40px;
+}
+.i_p {
+ padding: 10px 35px 7px 46px;
+}
+/*Button*/
+.button_md{
+ margin: 26px 0 58px 79px;
+}
+/*Comment Section Start*/
+.c_title {
+ margin: 20px 20px 86px;
+}
+h2 {
+ margin: 8px 0;
+}
+p {
+ font-weight: 500;
+ font-size: 17px;
+ line-height: 26px;
+}
+/*2nd row Start (Comment)*/
+.mr {
+ padding: 0px 130px 25px 130px;
+}
+.mt {
+    margin-top: 0px;
+}
+.h2_c {
+ font-size: 37px;
+}
+.icn {
+ margin: 9px 0 0;
+ font-size: 18px;
+}
+.para_c {
+ font-size: 15px;
+ line-height: 21px;
+}
+/*Footer Top Start*/
+.ft_p {
+ padding-bottom: 0px;
+ margin: 0 25px 0px 25px;
+}
+.p_form {
+ padding: 65px 0 65px 0;
+}
+.btn_s {
+ width: 241px;
+ margin: 0px 157px;
+ height: 45px;
+}
+/*Footer End*/
+.fb_p {
+ margin: 0 0px;
+line-height: 16px;
+}
+
+}
+
+/*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*Feature Section Start*/
+.p_f {
+ margin: 70px 0px 60px 0px;
+}
+/*Icon Part Start*/
+.i_p {
+ padding: 0px 68px 0px 88px;
+}
+/*Button*/
+.button_md{
+ margin: 46px 0 60px 192px;
+}
+/*Comment Section Start*/
+.c_title {
+ margin: 20px 20px 86px;
+}
+h2 {
+ margin: 8px 0;
+}
+/*2nd row Start (Comment)*/
+.mr {
+ padding: 0 71px 49px 69px;
+}
+.mt {
+    margin-top: 0px;
+}
+.h2_c {
+ font-size: 37px;
+}
+.icn {
+ margin: 9px 0 0;
+ font-size: 18px;
+}
+.para_c {
+ font-size: 15px;
+ line-height: 21px;
+}
+/*Footer Top Start*/
+.ft_p {
+ padding-bottom: 0px;
+}
+.p_form {
+ padding: 65px 0 65px 0;
+}
+.btn_s {
+ width: 251px;
+ margin: 7px 246px;
+ height: 50px;
+}
+/*Footer End*/
+.fb_p {
+  margin: 0 44px;
+  line-height: 20px;
+}
+}
+
+/*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+
+}
+
+/*Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px){
+
+}
+
+/*Extra extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) {
+
+}
